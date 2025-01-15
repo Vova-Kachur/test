@@ -1,0 +1,16 @@
+.btn{
+   background-color: red;
+}
+.a{
+    color: brown;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
